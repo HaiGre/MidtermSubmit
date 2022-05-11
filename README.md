@@ -22,4 +22,4 @@ Pushlish website: https://haigre.github.io/MidtermSubmit/
 
 ================================================
 
-Thank you your visit website
+Thank you your visit our website
